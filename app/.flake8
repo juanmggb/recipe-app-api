@@ -5,5 +5,4 @@ exclude =
     manage.y,
     settings.py
 
-[flake8]
 max-line-length = 100
